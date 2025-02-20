@@ -2,7 +2,7 @@
 
 ## About
 
-MATLAB exercises on complex numbers for the final exam of the Calculus 1 course.
+MATLAB exercises on complex numbers for final exam of Calculus 1 course.
 
 ## Technologies Used
 
