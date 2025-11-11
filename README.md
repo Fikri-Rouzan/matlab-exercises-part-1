@@ -7,4 +7,4 @@ A collection of MATLAB exercises focusing on complex numbers, prepared for the C
 ## 🛠️ Technologies Used
 
 - 🌐 **Programming Language:** MATLAB.
-- 🖥️ **Tool:** MATLAB Online.
+- ⚡ **Tool:** MATLAB Online.
