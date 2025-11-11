@@ -1,10 +1,10 @@
 # MATLAB Exercises Part 1
 
-## About
+## ℹ️ About
 
-MATLAB exercises on complex numbers for final exam of Calculus 1 course.
+A collection of MATLAB exercises focusing on complex numbers, prepared for the Calculus 1 final exam.
 
-## Technologies Used
+## 🛠️ Technologies Used
 
-- Programming Language: MATLAB.
-- Software: MATLAB.
+- 🌐 **Programming Language:** MATLAB.
+- 🖥️ **Tool:** MATLAB Online.
