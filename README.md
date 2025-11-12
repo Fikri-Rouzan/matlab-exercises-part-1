@@ -2,7 +2,7 @@
 
 ## ℹ️ About
 
-A collection of MATLAB exercises focusing on complex numbers, prepared for the Calculus 1 final exam.
+A collection of MATLAB exercises focusing on complex numbers, prepared for the Kalkulus 1 (Calculus 1) final exam.
 
 ## 🛠️ Technologies Used
 
